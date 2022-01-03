@@ -32,3 +32,8 @@ section {
   color: white;
   font-weight: 700;
 }
+.drem-big {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
